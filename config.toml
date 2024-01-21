@@ -1,7 +1,7 @@
 baseURL = "https://hrishik-koley.github.io/"
 title   = "Hrishik Koley"
 languageCode = "en-us"
-# theme = "hello-4s3ti"
+theme = "hello-4s3ti"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
