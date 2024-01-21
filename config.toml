@@ -37,7 +37,7 @@ defaultContentLanguage = "en"
 
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  blogs = "/blogs/:year/:month/:title/"
 
 [author]
   name = "Hrishik Koley"
@@ -63,17 +63,16 @@ defaultContentLanguage = "en"
   images = [""]
 
   # Home page title
-  homeTitle = "Hey, I'm Hrishik ;)"
+  homeTitle = "Hey, I'm Hrishik 😊"
   
   # Home subtitle of the index page.
-  #
-  #homeSubtitle = ""
+  homeSubtitle = "Welcome to my realm !"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
   
   # Adds a dark overlay over the background
-  # backgroundEffects = false
+  #  backgroundEffects = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -100,7 +99,7 @@ defaultContentLanguage = "en"
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
@@ -109,16 +108,16 @@ defaultContentLanguage = "en"
   #enableGlobalLanguageMenu = true
 
   # Shows Posts on the front/Home page
-  showPosts = true
+  showPosts = false
 
   # Shows the ReadMore button in text instead
-  ReadmoreText = true
+  ReadmoreText = false
 
   # Hides ReadMore
-  hideReadMore = false
+  hideReadMore = true
 
   # Shows reding time
-  ShowReadingTime = true
+  ShowReadingTime = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -145,7 +144,9 @@ defaultContentLanguage = "en"
     # Shows social icons on footer instead of main page
     socialIcons = true
 
-    topText = []
+    topText = [ 
+      "More of me:"
+     ]
     # bottomText = [
     #   "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
     #   "Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a>"
@@ -183,7 +184,7 @@ defaultContentLanguage = "en"
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]
-  #   path     = "/img/image.jpg"
+  #   path     = "/images/me.jpeg"
   #   alt      = "Portrait"
   #   maxWidth = "50px"
 
@@ -206,7 +207,7 @@ defaultContentLanguage = "en"
      url  = "https://www.linkedin.com/in/hrishik-koley-563064207"
 
   [[params.social]] 
-    name = "CV"
+    name = "Terminal CV"
     url  = ""
     icon = "fa-solid fa-terminal"
 
@@ -228,15 +229,18 @@ defaultContentLanguage = "en"
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv/"  
   [[menu.main]]
-    identifier = "tools"
-    name       = "Tools"
-    url        = "#"
+    identifier = "blogs"
+    name       = "Blogs"
+    url        = "blogs/"
   [[menu.main]]
-    identifier = "sometool"
-    name       = "SomeTool"
-    url        = "#"
-    parent     = "tools"
+    identifier = "gallery"
+    name       = "Gallery"
+    url        = "gallery/"
+  [[menu.main]]
+    identifier = "resources"
+    name       = "Resources"
+    url        = "resources/"
