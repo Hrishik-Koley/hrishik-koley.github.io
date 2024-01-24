@@ -1,6 +1,6 @@
 +++
 title = "Shannon Entropy"
-description = ""
+description = "This is an extension of the notes that I wrote for my talk at the \"What is...?\" seminar organized by the Math Club at ISI Bangalore."
 type = ["blogs","blog"]
 # tags = [
 #     "go",
