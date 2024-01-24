@@ -63,10 +63,10 @@ defaultContentLanguage = "en"
   images = [""]
 
   # Home page title
-  homeTitle = "Hey, I'm Hrishik 😊"
+  homeTitle = "Hey, I'm Hrishik"
   
   # Home subtitle of the index page.
-  homeSubtitle = "Welcome to my realm !"
+  homeSubtitle = "Welcome to my realm!"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -144,9 +144,9 @@ defaultContentLanguage = "en"
     # Shows social icons on footer instead of main page
     socialIcons = true
 
-    topText = [ 
-      "More of me:"
-     ]
+    # topText = [ 
+    #   "More of me:"
+    #  ]
     # bottomText = [
     #   "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
     #   "Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a>"

@@ -1,6 +1,6 @@
 +++
 title = "Blogs"
-# date = "2014-04-09"
+date = "2024-01-01"
 # aliases = ["about-us","about-hugo","contact"]
 hideTitle = true
 hidelanguage = true
@@ -8,4 +8,3 @@ hidelanguage = true
   name = "Hrishik"
 +++
 
-Under Construction...
