@@ -66,7 +66,7 @@ defaultContentLanguage = "en"
   homeTitle = "Hey, I'm Hrishik"
   
   # Home subtitle of the index page.
-  homeSubtitle = "Welcome to my realm!"
+  homeSubtitle = "Welcome to my realm! Feel free to roam around and never be afraid to explore."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
