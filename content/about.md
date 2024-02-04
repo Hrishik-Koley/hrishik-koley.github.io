@@ -14,5 +14,3 @@ I'm a 19 year old guy from a town named Burdwan in West Bengal, India. Currently
 Keeping aside my academics, I am an avid reader, in love with mystery thriller and science fiction books. So, if you have book suggestions for me, do not hesitate to drop me an email, or a text on instagram. I have an interest in dramas and have took part in many a plays, both in school and college. Adding to these, I love long bicycle rides and rock music (especially, bengali rock).
 
 Recently, while being in Indian Statistical Institue, Bangalore, I have picked up two interests. I play "Genshin Impact", an action role-playing game, with a very engaging story. So, if you are a fellow Genshin player, drop me a message and maybe we can play in co-op. The other interest I picked up is playing a card game, called Literature or Canadian Fish. This is a game that is played among six players in groups of three. 
-
-<!-- Not to boast, but in the Literature Tournament organized by ISI, Bangalore, me and my team, comprising of Sanchayan Bhowal and Soumya Dasgupta, emerged as champions. -->
