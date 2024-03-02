@@ -27,7 +27,7 @@ Entropy is a concept that is most commonly associated with a state of disorder, 
 
 What we will be talking about is entropy in context of information theory. That's where Shannon entropy comes in. But before understanding Shannon entropy, we need to understand what we mean by self-information.
 
-Self-information, put simply, is the information contained in some event or some statement. The more the self-information of something, the more we know about it, and in turn the lesser it's entropy.
+Self-information, put simply, is the information contained in some event or some statement. Entropy and infromation are not the same. Put simply, entropy is the measure of uncertainty before the event occurs while information is the knowledge that we gain after the event occurs.
 
 We consider an example now. For ease of understanding, we consider the average information content or self-information of a text. The information content of a text depends on how common the words in the text are with respect to global usage of those words. Now consider this example, \"Next sunday morning\" has lesser self-information (more entropy) than \"Large Hadron Collider\". Each of the words in \"Large Hadron Collider\" has greater self-information than every word in \"Next sunday morning\" (except maybe \"large\").
 
