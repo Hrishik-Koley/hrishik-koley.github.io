@@ -76,3 +76,7 @@ Before diving deeper, I should state that we shall:
 ## Shannon's characterization
 
 ## The surprise characterization
+
+## Fadeev-Leinester characterization
+
+## Recursive characterization
