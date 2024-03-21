@@ -54,7 +54,7 @@ Let, \\(p=(p_1,p_2)=\left(\frac{1}{3},\frac{2}{3}\right)\\); and \\(q(1)=\left(\
 
 The corresponding trees look like
 
-![Shannon's characterization criteria 3](img_1.webp)
+![Shannon's characterization criteria 3](/images/img_1.webp)
 
 and the third criterion reads
 
@@ -88,17 +88,17 @@ and hence
     $$
 where \\(K>0\\) to satisfy criteria 2.\
 Now suppose we have \\(n\\) possibilities with probability \\(p_i=\frac{n_i}{\sum_i n_i}\\) such that \\(n_i \in \mathbb{N}\\) (that is, the probabilities are rational). Now we break down a choice from \\(\sum_i n_i\\) possibilities into a choice from $n$ possibilities with probabilities \\(p_i\\), and then if the $i$-th choice was chosen, a choice from \\(n_i\\) with equal probabilities. \
-Applying criteria 3
+Applying criteria 3,
     $$
-    K \log \left(\sum_{i} n_{i}\right)=\mathbb{H}_{n}\left(p_{1}, p_{2}, \ldots, p_{n}\right)+K \sum_{i} p_{i} \log n_{i}
+    K \log \left(\sum\_{i} n\_{i}\right)=\mathbb{H}\_{n}\left(p\_{1}, p\_{2}, \ldots, p\_{n}\right)+K \sum\_{i} p\_{i} \log n\_{i}
     $$
 Solving for \\(\mathbb{H}\\) gives
     $$
-    \begin{aligned}
-    \mathbb{H}_{n}\left(p_{1}, p_{2}, \ldots, p_{n}\right) & =K\left[\sum_{i} p_{i} \log \left(\sum_{i} n_{i}\right)-\sum_{i} p_{i} \log n_{i}\right] \\
-    & =-K \sum_{i} p_{i} \log \left(\frac{n_{i}}{\sum_{i} n_{i}}\right) \\
-    & =-K \sum p_{i} \log p_{i}
-    \end{aligned}
+    \begin{align*}
+    \mathbb{H}\_{n}\left(p\_{1}, p\_{2}, \ldots, p\_{n}\right) & =K\left[\sum\_{i} p\_{i} \log \left(\sum\_{i} n\_{i}\right)-\sum\_{i} p\_{i} \log n\_{i}\right] \\\\
+    & =-K \sum\_{i} p\_{i} \log \left(\frac{n\_{i}}{\sum\_{i} n\_{i}}\right) \\\\
+    & =-K \sum p\_{i} \log p\_{i}
+    \end{align*}
     $$
 If the probabilities are not rational, then they may be approximated by rationals and since we assume that \\(\mathbb{H}\\) is continuous, the same result must hold in the limit as well. Hence the expression holds for any set of probabilities.
 
@@ -145,7 +145,7 @@ The criteria of this characterization are:
     $$
 
 We will be stating two theorems without proofs which will be made use of in a short while.
-> **Theorem. 1** For any real valued sequence \\(\left\{a_{n}\right\}\\), if
+> **Theorem. 1** For any real valued sequence \\(\left\\{a\_{n}\right\\}\\), if
     $$
     a_{n+1}-\frac{n}{n+1} a_{n} \rightarrow 0
     $$
@@ -178,10 +178,10 @@ Now we come to another important theorem, which we will give the proof for.
 The strong additivity tells us that
     $$
     \begin{align*}
-    \phi(m n) & =\mathbb{H}\left(\frac{1}{m n}, \frac{1}{m n}, \ldots, \frac{1}{m n}\right) \
-    \& =\mathbb{H}\left(\frac{1}{n}, \frac{1}{n}, \ldots, \frac{1}{n}\right)+\frac{1}{n} \sum_{i=1}^{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \
-    \& =\phi(n)+n \frac{1}{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \
-    \& =\phi(n)+\phi(m)
+    \phi(m n) & =\mathbb{H}\left(\frac{1}{m n}, \frac{1}{m n}, \ldots, \frac{1}{m n}\right) \\\\
+    & =\mathbb{H}\left(\frac{1}{n}, \frac{1}{n}, \ldots, \frac{1}{n}\right)+\frac{1}{n} \sum_{i=1}^{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \\\\
+    & =\phi(n)+n \frac{1}{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \\\\
+    & =\phi(n)+\phi(m)
     \end{align*}
     $$
     The tree we used here is (for $n=3, m=2$ )\\
