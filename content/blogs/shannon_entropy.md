@@ -178,10 +178,10 @@ Now we come to another important theorem, which we will give the proof for.
 The strong additivity tells us that
     $$
     \begin{align*}
-    \phi(m n) & =\mathbb{H}\left(\frac{1}{m n}, \frac{1}{m n}, \ldots, \frac{1}{m n}\right) \\
-    & =\mathbb{H}\left(\frac{1}{n}, \frac{1}{n}, \ldots, \frac{1}{n}\right)+\frac{1}{n} \sum_{i=1}^{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \\
-    & =\phi(n)+n \frac{1}{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \\
-    & =\phi(n)+\phi(m)
+    \phi(m n) & =\mathbb{H}\left(\frac{1}{m n}, \frac{1}{m n}, \ldots, \frac{1}{m n}\right) \
+    \& =\mathbb{H}\left(\frac{1}{n}, \frac{1}{n}, \ldots, \frac{1}{n}\right)+\frac{1}{n} \sum_{i=1}^{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \
+    \& =\phi(n)+n \frac{1}{n} \mathbb{H}\left(\frac{1}{m}, \frac{1}{m}, \ldots, \frac{1}{m}\right) \
+    \& =\phi(n)+\phi(m)
     \end{align*}
     $$
     The tree we used here is (for $n=3, m=2$ )\\
