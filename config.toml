@@ -62,6 +62,9 @@ defaultContentLanguage = "en"
   keywords = ""
   images = [""]
 
+  Image = "profile.jpeg"
+  AltText = "My Name"
+
   # Home page title
   homeTitle = "Hey, I'm Hrishik"
   
@@ -182,11 +185,11 @@ defaultContentLanguage = "en"
   #   url = ""
 
   # Uncomment this if you want a portrait on your start page
-  #
-  # [params.portrait]
-  #   path     = "/images/me.jpeg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  
+  [params.portrait]
+    path     = "/images/profile.jpeg"
+    alt      = "Portrait"
+    maxWidth = "150px"
 
   # Social icons
   [[params.social]]
