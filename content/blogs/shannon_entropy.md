@@ -184,15 +184,15 @@ The strong additivity tells us that
     & =\phi(n)+\phi(m)
     \end{align*}
     $$
-    The tree we used here is (for $n=3, m=2$ )\\
-    \includegraphics[max width=0.65\textwidth, center]{images/2024_03_16_385be7e6a9ca554722f2g-07.jpg}
+    The tree we used here is (for $n=3, m=2$ )\
+    ![Fadeev-Leinster's characterization criteria 4](/images/img_2.webp)
     This also implies that $\phi(1)=0$.
     Now note that
     $$
     (\underbrace{\frac{1}{n+1}, \ldots, \frac{1}{n+1}}_{n+1 \text { times }})
     $$
-    can be written in two steps, the first having two choices with probability $\frac{n}{n+1}$ and $\frac{1}{n+1}$, and the second step having $n$ choices with probability $\frac{1}{n}$ for the former, and 1 choice with probability 1 for the latter. The relevant tree for $n=4$ is\\
-    \includegraphics[max width=0.7\textwidth, center]{images/2024_03_16_385be7e6a9ca554722f2g-08.jpg}
+    can be written in two steps, the first having two choices with probability \\(\frac{n}{n+1}\\) and \\(\frac{1}{n+1}\\), and the second step having \\(n\\) choices with probability \\(\frac{1}{n}\\) for the former, and \\(1\\) choice with probability \\(1\\) for the latter. The relevant tree for \\(n=4\\) is\
+    ![Shannon's characterization criteria 3](/images/img_3.webp)
     Then by strong additivity (and the fact that $\phi(1)=0$ ),
     $$
     \phi(n+1)=\mathbb{H}\left(\frac{n}{n+1}, \frac{1}{n+1}\right)+\frac{n}{n+1} \phi(n)
@@ -223,55 +223,56 @@ The strong additivity tells us that
     $$
     for some constant $K$.
     
-    The rest of the proof is the same as in the second part of Shannon's proof (after he shows what form his $A$ function takes), replacing $A$ by $\phi$, and thus we do not repeat that here, but the upshot is obviously the statement of the theorem, that is
+The rest of the proof is the same as in the second part of Shannon's proof (after he shows what form his $A$ function takes), replacing $A$ by $\phi$, and thus we do not repeat that here, but the upshot is obviously the statement of the theorem, that is
     $$
     \mathbb{H}(X)=-K \sum_{i \in X} p_{i} \log p_{i}
     $$
-\end{proof}
-\section{Applications of Shannon Entropy}
-Shannon entropy has a wide range of applications in various fields from mathematics to biology to theoretical computer science.\\
+
+## Applications of Shannon Entropy
+
+Shannon entropy has a wide range of applications in various fields from mathematics to biology to theoretical computer science.\
 Some applications are:
-\begin{enumerate}
-    \item \textbf{Data Compression:} Shannon entropy finds it's use in optimizing storage and transmission as well as in various compression algorithms.
-    \item \textbf{Communication Systems:} It helps in assessing the efficiency of information transmission and is closely related to channel capacity.
-    \item \textbf{Cryptography:} It is used in assessing the strength of encryption systems and also to evaluate the potential risks faced by cryptographic systems.
-\end{enumerate}
-\section{Data Compression}
+- _Data Compression_: Shannon entropy finds it's use in optimizing storage and transmission as well as in various compression algorithms.
+- _Communication Systems_: It helps in assessing the efficiency of information transmission and is closely related to channel capacity.
+- _Cryptography_: It is used in assessing the strength of encryption systems and also to evaluate the potential risks faced by cryptographic systems.
+
+## Data Compression
+
  The goal of compression is to represent signals (or more general data) in a more efficient form. Compression is extremely useful for both storage and transmission. The basic idea of compression is exploiting redundancy in data. Sampling and quantization are considered forms of compression. Sampling is a form of lossless compression. Quantization is a form of lossy compression. It is defined as the process of mapping continuous infinite values to a smaller set of discrete finite values. In lossless compression, from the compressed data one is able to reproduce the original data exactly. In lossy compression, the original data cannot be reproduced exactly. Rather we allow some degradation in the reproduced data.
-\subsection{The Coding Problem}
-Suppose we are given $M$ symbols denoted $s_1,s_2,\dots,s_M$. For example, for images and video we might have $M=256$ with the symbols $s_i$ denoting the $256$ grayscale levels. For general text files, we might have $M=128$ (as in ASCII) with the $s_i$ denoting $128$ characters including upper and lower case letters, digits, punctuation marks, and various special symbols.\\
-\\
-How many bits do we need per symbol? The obvious answer is that we need $log_2M$ bits. For example, if there are $8$ symbols $s_1,\dots,s_8$, then we can use the codewords $000, 001, 010, 011, 100, 101, 110, 111$.\\
-\\
+
+**The Coding Problem**
+
+Suppose we are given $M$ symbols denoted $s_1,s_2,\dots,s_M$. For example, for images and video we might have $M=256$ with the symbols $s_i$ denoting the $256$ grayscale levels. For general text files, we might have $M=128$ (as in ASCII) with the $s_i$ denoting $128$ characters including upper and lower case letters, digits, punctuation marks, and various special symbols.\
+How many bits do we need per symbol? The obvious answer is that we need $log_2M$ bits. For example, if there are $8$ symbols $s_1,\dots,s_8$, then we can use the codewords $000, 001, 010, 011, 100, 101, 110, 111$.\
 Every codeword must correspond to a different symbol otherwise the representation does not give back the original symbols. It is easy to see that when we do not have any additional information then it is not possible to come up with better codewords and this representation is the best we can do. However, if additional information is provided then we can try to do something.
-\subsection{Fixed-length and Variable-length Coding}
-Fixed-length coding refers to the situation where we have equal length codewords for every symbol. However, this is not the case in variable-length coding. In variable-length coding we assign shorter codewords to more frequently used symbols and longer codewords to less frequently used symbols.\\
-\\
+
+**Fixed-length and Variable-length Coding**
+
+Fixed-length coding refers to the situation where we have equal length codewords for every symbol. However, this is not the case in variable-length coding. In variable-length coding we assign shorter codewords to more frequently used symbols and longer codewords to less frequently used symbols.\
 Consider four symbols $s_1,s_2,s_3,s_4$. With the standard (fixed-length) encoding we would need $2$ bits/symbol. But if the probabilities of their occurence are known as follows: $1/2$ for $s_1$, $1/4$ for $s_2$, and $1/8$ for $s_3$ and $s_4$. We can come up with a variable-length coding as follows: $0$ represents $s_1$, $10$ represents $s_2$, $110$ represents $s_3$, and $111$ represents $s_4$. Now the average number of bits needed for symbol is $(1)(1/2)+(2)(1/4)+(3)(1/8)+(3)(1/8)=1.75$.
- \subsection{Issues in Variable-length Coding}
+
+ **Issues in Variable-length Coding**
+
  There arise some problems in variable-length coding:
- \begin{enumerate}
-     \item \textbf{Unique Decodability:} With variable length codes, in addition to not having two symbols with the same codeword, we also have to worry about some combination of symbols giving the same string of bits as some other combination of symbols. Suppose for four symbols $s_1,s_2,s_3,s_4$ we assign the codewords $0, 10, 01, 11$ respectively. Then we can’t tell whether 0110 corresponds to $s_3s_2$ or $s_1s_4s_1$. This shows that this particular code is not uniquely decodable.
-     \item \textbf{Instantaneous Codes:}  A code is called instantaneous if each symbol can be decoded as soon as the corresponding codeword is completed. That is, it is not necessary to see bits of later symbols in order to decode the current symbol. The code $0, 01, 011, 111$ for the symbols $s_1,s_2,s_3,s_4$, respectively is not instantaneous. To see this, consider the bit stream $011111\dots1$. We can’t tell if the first symbol is $s_1,s_2$, or $s_3$, although it’s clear that after this first symbol we have a sequence of $s_4$’s. Once we see the last $1$, we can then work backwards to eventually find out what was the first symbol.
- \end{enumerate}
-\subsection{Role of Shannon Entropy in Data Compression}
-Since $\mathbb{H}$ represents the average number of bits of information per symbol from the source, we might expect that we need to use at least $\mathbb{H}$ bits per symbol to represent the source with a uniquely decodable code. This is in fact the case, and moreover, if we wish to code longer and longer strings of symbols, we can find codes whose performance (average number of bits per symbol) gets closer to $\mathbb{H}$. This result is called the source coding theorem and was discovered by Shannon in 1948.
-\begin{theorem}(\textbf{Source Coding Theorem})
-    \begin{enumerate}
-        \item The average number of bits/symbol of any uniquely decodable source must be greater than or equal to the entropy $\mathbb{H}$ of the source.
-        \item  If the string of symbols is sufficiently large, there exists a uniquely decodable code for the source such that the average number of bits/symbol of the code is as close to $\mathbb{H}$ as desired.
-    \end{enumerate}
-\end{theorem}
-\subsection{Huffman Coding}
-Huffman coding is a simple and systematic way to design good variable-length codes given the probabilities of the symbols. The resulting code is both uniquely decodable and instantaneous.\\
+- _Unique Decodability_: With variable length codes, in addition to not having two symbols with the same codeword, we also have to worry about some combination of symbols giving the same string of bits as some other combination of symbols. Suppose for four symbols $s_1,s_2,s_3,s_4$ we assign the codewords $0, 10, 01, 11$ respectively. Then we can’t tell whether 0110 corresponds to $s_3s_2$ or $s_1s_4s_1$. This shows that this particular code is not uniquely decodable.
+- _Instantaneous Codes_:  A code is called instantaneous if each symbol can be decoded as soon as the corresponding codeword is completed. That is, it is not necessary to see bits of later symbols in order to decode the current symbol. The code $0, 01, 011, 111$ for the symbols $s_1,s_2,s_3,s_4$, respectively is not instantaneous. To see this, consider the bit stream $011111\dots1$. We can’t tell if the first symbol is $s_1,s_2$, or $s_3$, although it’s clear that after this first symbol we have a sequence of $s_4$’s. Once we see the last $1$, we can then work backwards to eventually find out what was the first symbol.
+
+**Role of Shannon Entropy in Data Compression**
+
+Since $\mathbb{H}$ represents the average number of bits of information per symbol from the source, we might expect that we need to use at least $\mathbb{H}$ bits per symbol to represent the source with a uniquely decodable code. This is in fact the case, and moreover, if we wish to code longer and longer strings of symbols, we can find codes whose performance (average number of bits per symbol) gets closer to $\mathbb{H}$. This result is called the source coding theorem and was discovered by Shannon in 1948.\
+> **Theorem. (Source Coding Theorem)**
+> - The average number of bits/symbol of any uniquely decodable source must be greater than or equal to the entropy $\mathbb{H}$ of the source.
+> - If the string of symbols is sufficiently large, there exists a uniquely decodable code for the source such that the average number of bits/symbol of the code is as close to $\mathbb{H}$ as desired.
+
+**Huffman Coding**
+
+Huffman coding is a simple and systematic way to design good variable-length codes given the probabilities of the symbols. The resulting code is both uniquely decodable and instantaneous.
+
 The Huffman coding algorithm can be summarized as follows:
-\begin{enumerate}
-    \item Think of the $p_i$ as the leaf nodes of a tree. In constructing a Huffman code by hand it’s sometimes useful to sort the pi in decreasing order.
-    \item  Starting with the leaf nodes, construct a tree as follows. Repeatedly join two nodes with the smallest probabilities to form a new node with the sum of the probabilities just joined. Assign a $0$ to one branch and a $1$ to the other branch. In constructing Huffman codes by hand, it’s often helpful to do this assignment in a systematic way, such as always assigning $0$ to the branch on the same side.
-    \item The codeword for each symbol is given by the sequence of $0$’s and $1$’s starting from the root node and leading to the leaf node corresponding to the symbol.
-\end{enumerate}
-\subsection{Notable facts about Huffman Coding}
-\begin{enumerate}
-    \item  It can be shown that that $\mathbb{H} \leq$ average length of Huffman code $\leq \mathbb{H}+1$.
-    \item The time complexity for finding the Huffman code for $n$ many symbols is $T(n)=T(n-1)+O(n)$, and thus, it follows $O(n^2)$.
-\end{enumerate}
+- Think of the $p_i$ as the leaf nodes of a tree. In constructing a Huffman code by hand it’s sometimes useful to sort the pi in decreasing order.
+- Starting with the leaf nodes, construct a tree as follows. Repeatedly join two nodes with the smallest probabilities to form a new node with the sum of the probabilities just joined. Assign a $0$ to one branch and a $1$ to the other branch. In constructing Huffman codes by hand, it’s often helpful to do this assignment in a systematic way, such as always assigning $0$ to the branch on the same side.
+- The codeword for each symbol is given by the sequence of $0$’s and $1$’s starting from the root node and leading to the leaf node corresponding to the symbol.
+
+Notable facts about Huffman Coding:
+- It can be shown that that $\mathbb{H} \leq$ average length of Huffman code $\leq \mathbb{H}+1$.
+- The time complexity for finding the Huffman code for $n$ many symbols is $T(n)=T(n-1)+O(n)$, and thus, it follows $O(n^2)$.
