@@ -32,3 +32,7 @@ hidelanguage = true
 | **Hanoi Graphs, Sierpi\'nski Graphs, and Sierpi\'nski Triangle Graphs** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
 | I did a project under _Dr. Divya Sindhu Lekha_ in hybrid mode at _IIIT Kottayam_, where I followed the book "_The Tower of Hanoi - Myths and Maths_" and read through some survey and research papers related to graph theory and Tower of Hanoi. I wrote a report and then we tried to find out the "_Median of Sierpi\'nski Triangle Graphs_", which has now culminated in a research paper. | Summer 2023 |
+
+| **Structural Graph Theory** |
+| ----------------------------------------------------------------------------------------------- | ------------ |
+| I did a project on _Structural Graph Thoery_ under _Prof. Nishad Kothari_ in online mode, where I studied various advanced graph theoretic concepts in depth and later went on to cover deeper results in _Matching Theory_. | Summer 2024 |
