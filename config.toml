@@ -147,14 +147,6 @@ defaultContentLanguage = "en"
     # Shows social icons on footer instead of main page
     socialIcons = true
 
-    # topText = [ 
-    #   "More of me:"
-    #  ]
-    # bottomText = [
-    #   "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-    #   "Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a>"
-    # ]
-
   # Colors for favicons
   #
   [params.favicon.color]
@@ -218,14 +210,7 @@ defaultContentLanguage = "en"
   [languages.en]
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # [languages.en.params]
-  #   subtitle  = "Hello 4s3ti Theme"
-  # [languages.fr]
-  #   weight    = 2
-  #   copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # [languages.fr.params]
-  #   subtitle  = "Hello 4s3ti Theme"
-    
+   
 [menu]
   [[menu.main]]
     identifier = "about"
