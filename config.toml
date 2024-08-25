@@ -222,8 +222,8 @@ defaultContentLanguage = "en"
     url        = "cv/"  
   [[menu.main]]
     identifier = "blogs"
-    name       = "Blogs"
-    url        = "blogs/"
+    name       = "Blogs and Talks"
+    url        = "blogs_and_talks/"
   [[menu.main]]
     identifier = "gallery"
     name       = "Gallery"
