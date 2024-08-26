@@ -40,11 +40,7 @@ hidelanguage = true
 
 | **Algebraic Combinatorics and Tilings** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
-| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. I worked under his guidance on two problems:
- 
-1) "The number of tilings of a m×n rectangle using k×1 tiles, where m=2k." This problem was specifically considered as by Graham's condition, m=2k is the last case, where we have no fault-free tilings when using k×1 tiles.
-
-2) The next problem that we considered was, "The number of fault-free tilings of a m×n rectangle using dominos, where m=5." This case was considered as m<5 cases are trivial and do not require much thought, and also Graham's condition ensures that m=5 is the first non-trivial case. This was also partly because, it was stated as a further frontier of research in Graham's original paper, "Fault-free tilings of rectangles."| May 2024-Present |
+| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. | May 2024-Present |
 
 ## ACTIVITIES 
 
