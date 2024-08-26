@@ -223,7 +223,7 @@ defaultContentLanguage = "en"
   [[menu.main]]
     identifier = "blogs and talks"
     name       = "Blogs and Talks"
-    url        = "blogs_and_talks/"
+    url        = "blogs/"
   [[menu.main]]
     identifier = "gallery"
     name       = "Gallery"
