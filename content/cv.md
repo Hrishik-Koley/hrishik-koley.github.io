@@ -37,7 +37,6 @@ hidelanguage = true
 | ----------------------------------------------------------------------------------------------- | ------------ |
 | I did a project on _Structural Graph Thoery_ under _Prof. Nishad Kothari_ in online mode, where I studied various advanced graph theoretic concepts in depth from the book "_Garph Theory_" by _Bondy & Murty_ and later went on to cover deeper results in _Matching Theory_ from the book "_Matching Theory_" by _Lovasz & Plummer_. | May-Jul 2024 |
 
-
 | **Algebraic Combinatorics and Tilings** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
 | For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes.| May 2024-September 2024 |
