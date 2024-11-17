@@ -26,6 +26,6 @@ date = "2024-08-24"
 I have included the slides of various talks given by me at various places. The dates of the talks as well as links to the slides and websites of the organizations that hosted the talks are present here.
 
 **Tribone Tilings: Honeycombs to Benzels**
-- **Slides:** 
+- **Slides:** Available [here](\blogs\Tribone_Tilings.pdf)
 - **Hosted by:** Math Club, ISI Bangalore
 - **Dates:** 24th August, 2024
