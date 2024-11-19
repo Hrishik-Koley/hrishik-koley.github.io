@@ -23,7 +23,7 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 
 ## The Plan
 
-**Brief introduction to Group Theory and Generating Functions**
+**Day 1: Brief introduction to Group Theory and Generating Functions**
 - **Notes:**
 - **Date:** 28th November, 2024
 - **References:** 
