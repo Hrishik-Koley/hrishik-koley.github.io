@@ -24,10 +24,10 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 ## The Plan
 
 **Day 1: Brief introduction to Group Theory and Generating Functions**
-- **Notes:**
+- **Notes:** [TBU]
 - **Date:** 28th November, 2024
 - **References:** 
   - _Visual Group Theory_ -- Nathan Carter
   - _Abstract Algebra_ -- Dummit and Foote
   - [_Generating Functionology_](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf) -- Herbert S. Wilf
-- **Other:** 
+- **Other:** [TBU]
