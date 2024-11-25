@@ -220,19 +220,24 @@ defaultContentLanguage = "en"
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = 10
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "cv/"  
+    url        = "cv/"
+    weight     = 20  
   [[menu.main]]
     identifier = "musings"
     name       = "Musings"
     url        = "musings/"
+    weight     = 30
   [[menu.main]]
     identifier = "gallery"
     name       = "Gallery"
     url        = "gallery/"
+    weight     = 50
   [[menu.main]]
     identifier = "resources"
     name       = "Resources"
     url        = "resources/"
+    weight     = 40
