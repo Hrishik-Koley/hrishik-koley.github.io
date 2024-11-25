@@ -31,6 +31,8 @@ hidelanguage = true
 - _References:_ 
   - [Zero-sum sets of prescribed size](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
+<br>
+
 **Integer Partitions and Symmetric Functions**
 - _Advisor:_ Prof. Samrith Ram
 - _Timeline:_ September, 2024 -- Present
@@ -38,6 +40,8 @@ hidelanguage = true
   - _Enumerative Combinatorics Vol. II_ -- _Richard P. Stanley_
   - _The Symmetric Group_ -- _Bruce E. Sagan_
   - _Integer Partitions_ -- _George E. Andrews_ & _Kimmo Eriksson_
+
+<br>
 
 **Algebraic Combinatorics and Tilings**
 As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings. Later, I also studied about fault-free tilings.
@@ -50,11 +54,15 @@ As a part of this project I started with exploring various topics in algebraic c
   - _A Course in Enumeration_ -- _Martin Aigner_
   - _Bijective Combinatorics_ -- _Nicholas Loehr_
 
+<br>
+
 **Structural Graph Theory**
 - _Advisor:_ Prof. Nishad Kothari
 - _Timeline:_ May, 2024 -- July, 2024
 - _Referenecs:_
   - _Graph Theory_ -- _J.A. Bondy_ & _U.S.R. Murty_
+
+<br>
 
 **Hanoi Graphs, Sierpinski Graphs, and Sierpinski Triangle Graphs**
 - _Advisor:_ Dr. Divya Sindhu Lekha
@@ -65,6 +73,8 @@ As a part of this project I started with exploring various topics in algebraic c
   - _[A survey and classification of Sierpiński-type graphs](https://www.sciencedirect.com/science/article/pii/S0166218X16304309)_
 - _Project Report:_ Available [here](/pdfs/Hanoi_Graphs,Sierpinski_Graphs,Sierpinski_Triangle_Graphs.pdf)
 - _Research Culmination:_ [The Median of Sierpinski Triangle Graphs](https://arxiv.org/abs/2408.12783)
+
+<br>
 
 **On the Relationship of Emotional Intelligence and Group Work Results of University Students**
 This was a group project done as a part of my Statistics-I course.
