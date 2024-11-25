@@ -25,9 +25,11 @@ hidelanguage = true
 
 ## PROJECTS
 
-| **Zero Sum Theory** |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| I am currently studying about zero sum theory in additive combinatorics under the guidance of Prof. Eshita Mazumdar. For this project, I am currently following the paper _"Zero Sum Sets of Prescribed Size"_ by _Noga Alon_ and _Moshe Dubiner_. | Sep 2024-Present |
+**Zero Sum Theory**
+- _Advisor:_ Prof. Eshita Mazumdar
+- _Timeline:_ December, 2024 -- Present
+- _References:_ 
+  - [Zero-sum sets of prescribed size]{https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf}
 
 | **Symmetric Functions** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
