@@ -35,7 +35,7 @@ hidelanguage = true
 
 | **Algebraic Combinatorics and Tilings** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
-| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. | May 2024-Sep 2024 |
+| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. | May-Sep 2024 |
 
 | **Structural Graph Theory** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
