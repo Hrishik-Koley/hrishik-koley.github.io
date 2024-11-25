@@ -31,16 +31,24 @@ hidelanguage = true
 - _References:_ 
   - [Zero-sum sets of prescribed size](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
-**Symmetric Functions**
+**Integer Partitions and Symmetric Functions**
 - _Advisor:_ Prof. Samrith Ram
 - _Timeline:_ September, 2024 -- Present
 - _Referenecs:_ 
   - _Enumerative Combinatorics Vol. II_ -- _Richard P. Stanley_
   - _The Symmetric Group_ -- _Bruce E. Sagan_
+  - _Integer Partitions_ -- _George E. Andrews_ & _Kimmo Eriksson_
 
-| **Algebraic Combinatorics and Tilings** |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. | May-Sep 2024 |
+**Algebraic Combinatorics and Tilings**
+As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings. Later, I also studied about fault-free tilings.
+- _Advisor:_ Prof. Samrith Ram
+- _Timeline:_ May, 2024 -- October, 2024
+- _References:_ 
+  - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
+  - _Handbook of Enumerative Combinatorics_
+  - _Enumerative Combinatorics Volume 1_ -- _Richard P. Stanley_ 
+  - _A Course in Enumeration_ -- _Martin Aigner_
+  - _Bijective Combinatorics_ -- _Nicholas Loehr_
 
 | **Structural Graph Theory** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
