@@ -179,7 +179,7 @@ defaultContentLanguage = "en"
   # Uncomment this if you want a portrait on your start page
   
   [params.portrait]
-    path     = "/images/profile.jpeg"
+    path     = "/images/profile2.jpeg"
     alt      = "Portrait"
     maxWidth = "150px"
 
