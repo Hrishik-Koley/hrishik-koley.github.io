@@ -50,14 +50,26 @@ As a part of this project I started with exploring various topics in algebraic c
   - _A Course in Enumeration_ -- _Martin Aigner_
   - _Bijective Combinatorics_ -- _Nicholas Loehr_
 
-| **Structural Graph Theory** |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| I did a project on _Structural Graph Thoery_ under _Prof. Nishad Kothari_ in online mode, where I studied various advanced graph theoretic concepts in depth from the book "_Garph Theory_" by _Bondy & Murty_ and later went on to cover deeper results in _Matching Theory_ from the book "_Matching Theory_" by _Lovasz & Plummer_. | May-Jul 2024 |
+**Structural Graph Theory**
+- _Advisor:_ Prof. Nishad Kothari
+- _Timeline:_ May, 2024 -- July, 2024
+- _Referenecs:_
+  - _Graph Theory_ -- _J.A. Bondy_ & _U.S.R. Murty_
 
-| **Hanoi Graphs, Sierpinski Graphs, and Sierpinski Triangle Graphs** |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| I did a project under _Dr. Divya Sindhu Lekha_ in hybrid mode at _IIIT Kottayam_, where I followed the book "_The Tower of Hanoi - Myths and Maths_" and read through some survey and research papers related to graph theory and Tower of Hanoi. I wrote a report and then we tried to find out the "_Median of Sierpinski Triangle Graphs_", which has now culminated in a research paper. | Jun-Aug 2023 |
+**Hanoi Graphs, Sierpinski Graphs, and Sierpinski Triangle Graphs**
+- _Advisor:_ Dr. Divya Sindhu Lekha
+- _Timeline:_ June, 2023 -- August, 2023
+- _Referenecs:_
+  - _The Tower of Hanoi - Myths and Maths_ -- _Andreas M. Hinz_, _Sandi Klavzar_, & _Ciril Petr_
+  - _[The Median of Sierpinski Graphs](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21000512)_
+  - _[A survey and classification of Sierpiński-type graphs](https://www.sciencedirect.com/science/article/pii/S0166218X16304309)_
+- _Project Report:_ Available [here](/pdfs/Hanoi_Graphs,Sierpinski_Graphs,Sierpinski_Triangle_Graphs.pdf)
+- _Research Culmination:_ [The Median of Sierpinski Triangle Graphs](https://arxiv.org/abs/2408.12783)
 
-| **On the Relationship of Emotional Intelligence and Group Work Results of University Students** |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| This was a group project done as a part of my Statistics-I course under the guidance of _Professor Rituparna Sen_ at _ISI, Bangalore_. We read a paper and wrote a report on it as well as extended it's results. | Jan-Apr 2023 |
+**On the Relationship of Emotional Intelligence and Group Work Results of University Students**
+This was a group project done as a part of my Statistics-I course.
+- _Advisor:_ Prof. Rituparna Sen
+- _Timeline:_ January, 2023 -- April, 2023
+- _Referenecs:_
+  - [The Relationship of Emotion Intelligence, Knowledge-Sharing and Group Work Results of Vietnam Students](https://www.semanticscholar.org/paper/The-Relationship-of-Emotion-Intelligence%2C-and-Group-Le-Pham/1060e3a6a5caea76acdfe61b8abecf80d9dbd6f2?p2df)
+- _Report & Extension:_ Available [here](https://www.isibang.ac.in/~rsen/Stat1new/7.pdf)
