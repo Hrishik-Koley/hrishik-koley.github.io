@@ -1,5 +1,5 @@
 +++
-title = "Blogs and Talks"
+title = "Musings"
 date = "2024-01-01"
 # aliases = ["about-us","about-hugo","contact"]
 hideTitle = true
