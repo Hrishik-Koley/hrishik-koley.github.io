@@ -27,15 +27,15 @@ hidelanguage = true
 
 | **Zero Sum Theory** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
-| I am currently studying about zero sum theory in additive combinatorics under the guidance of Prof. Eshita Mazumdar. For this project, I am currently following the paper _"Zero Sum Sets of Prescribed Size"_ by _Noga Alon_ and _Moshe Dubiner_. | September 2024-Present |
+| I am currently studying about zero sum theory in additive combinatorics under the guidance of Prof. Eshita Mazumdar. For this project, I am currently following the paper _"Zero Sum Sets of Prescribed Size"_ by _Noga Alon_ and _Moshe Dubiner_. | Sep 2024-Present |
 
 | **Symmetric Functions** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
-| I am currently studying about symmetric functions under the guidance of Prof. Samrith Ram. For this project, I am extensively following the books, _"Enumerative Combinatorics Vol. II"_ by _Richard P. Stanley_, and _"The Symmetric Group"_ by _Bruce E. Sagan_. | September 2024-Present |
+| I am currently studying about symmetric functions under the guidance of Prof. Samrith Ram. For this project, I am extensively following the books, _"Enumerative Combinatorics Vol. II"_ by _Richard P. Stanley_, and _"The Symmetric Group"_ by _Bruce E. Sagan_. | Sep 2024-Present |
 
 | **Algebraic Combinatorics and Tilings** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
-| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. | May 2024-September 2024 |
+| For the first part of the project, I studied _Algebraic Combinatorics_ under the guidance of _Prof. Samrith Ram_, where I followed the books "_Handbook of Enumerative Combinatorics_", "_Enumerative Combinatorics Volume 1_" by _Richard P. Stanley_, and "_A Course in Enumeration_" by _Martin Aigner_. I covered the concepts of generating functions during the course of the project, and went on to study more about integer partitions, and symmetric functions. Following this, I studied the theory of tilings, where I extensively studied about Benzel Tilings, and Rectangular Box tilings using polyominoes. | May 2024-Sep 2024 |
 
 | **Structural Graph Theory** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
