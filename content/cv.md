@@ -29,11 +29,14 @@ hidelanguage = true
 - _Advisor:_ Prof. Eshita Mazumdar
 - _Timeline:_ December, 2024 -- Present
 - _References:_ 
-  - [Zero-sum sets of prescribed size]{https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf}
+  - [Zero-sum sets of prescribed size](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
-| **Symmetric Functions** |
-| ----------------------------------------------------------------------------------------------- | ------------ |
-| I am currently studying about symmetric functions under the guidance of Prof. Samrith Ram. For this project, I am extensively following the books, _"Enumerative Combinatorics Vol. II"_ by _Richard P. Stanley_, and _"The Symmetric Group"_ by _Bruce E. Sagan_. | Sep 2024-Present |
+**Symmetric Functions**
+- _Advisor:_ Prof. Samrith Ram
+- _Timeline:_ September, 2024 -- Present
+- _Referenecs:_ 
+  - _Enumerative Combinatorics Vol. II_ -- _Richard P. Stanley_
+  - _The Symmetric Group_ -- _Bruce E. Sagan_
 
 | **Algebraic Combinatorics and Tilings** |
 | ----------------------------------------------------------------------------------------------- | ------------ |
