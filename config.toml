@@ -198,6 +198,10 @@ defaultContentLanguage = "en"
     url  = "https://github.com/hrishik-koley"
 
   [[params.social]]
+    name = "discord"
+    url  = "https://discord.gg/2yg5fuVYE2"
+
+  [[params.social]]
      name = "linkedin"
      url  = "https://www.linkedin.com/in/hrishik-koley-563064207"
 
