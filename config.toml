@@ -62,7 +62,7 @@ defaultContentLanguage = "en"
   keywords = ""
   images = [""]
 
-  Image = "profile.jpeg"
+  Image = "profile2.jpeg"
   AltText = "My Name"
 
   # Home page title
