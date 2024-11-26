@@ -1,0 +1,9 @@
+.fade-in-hidden {
+    opacity: 0; /* Hidden by default */
+    transition: opacity 4s ease-in; /* Smooth fade-in over 4 seconds */
+  }
+  
+  .fade-in-visible {
+    opacity: 1; /* Fully visible */
+  }
+  
