@@ -15,6 +15,10 @@
                 {{ block "main" . }}{{ end }}
             </div>
 
+            <div class="{{ if .Params.customFont }}custom-font{{ end }}">
+                {{ block "main" . }}{{ end }}
+            </div>              
+
             {{ block "footer" . }}
                 {{ partial "footer.html" . }}
             {{ end }}
