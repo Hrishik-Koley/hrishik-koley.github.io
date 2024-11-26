@@ -1,5 +1,6 @@
 +++
 title = "About"
+customFont = true
 # date = "2014-04-09"
 # aliases = ["about-us","about-hugo","contact"]
 hideTitle = true
