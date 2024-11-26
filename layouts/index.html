@@ -12,10 +12,8 @@
             {{ if .Site.Params.Portrait.Path }}
                <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width: {{ .Site.Params.Portrait.MaxWidth }}" />
             {{ end }}
-            <div id="fade-in-element" class="fade-in-hidden">
             <h1>{{ .Site.Params.homeTitle }}</h1>
             {{ partial "subtitle.html" . }}
-            </div>
         <!-- Start Posts -->
         {{ if .Site.Params.showPosts }}
             {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}

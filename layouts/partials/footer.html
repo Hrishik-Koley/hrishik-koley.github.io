@@ -4,7 +4,6 @@
             {{ range .Site.Params.footer.topText }}<span>{{ . | safeHTML}}</span>{{ end }}
         </div>
     {{ end }}
-    <script src="{{ "js/main.js" | relURL }}" defer></script>
     {{ if .Site.Params.footer.socialIcons }}
         <div class="footer__inner">
             <ul class="icons">
