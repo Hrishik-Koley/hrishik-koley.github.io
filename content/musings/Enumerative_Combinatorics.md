@@ -25,8 +25,13 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 
 **Day 1: Brief introduction to Group Theory and Generating Functions**
 
-This will be the very first session of the Enumerative Combinatorics UDGRP. We will use the time to get introduced to each other as well as everyone's motivation. Following that, we will be delving into some basic group theory, which is quite essential in a significant number of areas in algebraic combinatorics. However, we may end up using little to almost no group theory at all. We would also be covering generating functions, as it will be crucial in any area that we try to explore from there on. If time permits, for the last 10-15 minutes, we will talk about asymptotics.
+This was the very first session of the Enumerative Combinatorics UDGRP. We used the time to get introduced to each other as well as everyone's motivation.
 
+- **Topics Covered:**
+  - Generating Functions
+  - Basic Group Theory
+  - Asymptotics
+  - Motivation for various fields of Combinatorics
 - **Notes:** [TBU]
 - **Date:** 28th November, 2024
 - **References:** 
