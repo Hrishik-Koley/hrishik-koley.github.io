@@ -54,3 +54,14 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
   - [_The Cauchy Davenport Theorem_](https://sites.math.rutgers.edu/~sk1233/courses/additive-F16/lec1.pdf)
   - [_Lecture Notes in Hyperplane Arrangements_](https://static.ias.edu/pcmi/2004/program/Stanleynotes.pdf)
   - _Lectures in Polytopes_ -- Gunter M. Ziegler
+
+**Day 3: Asymmetric Colouring and Zero-Sum sets in \\(Z_n \bigoplus Z_n\\)**
+
+- **Presentation:** _Asymmetric Colouring_ -- Daibik Barik
+- **Notes of Presentation:** [TBU]
+- **Topics Covered:** 
+  - Some proofs of _Erdos, Ginzburg, Ziv_ theorem
+  - Zero Sum Sets in \\(Z_n \bigoplus Z_n\\)
+- **Date:** 5th December, 2024
+- **References:** 
+  - [_Zero Sum Sets of Prescribed Size_](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
