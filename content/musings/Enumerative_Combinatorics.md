@@ -27,15 +27,30 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 
 This was the very first session of the Enumerative Combinatorics UDGRP. We used the time to get introduced to each other as well as everyone's motivation.
 
+- **Scribbles:** Available [here](/pdfs/ECUD1.pdf)
 - **Topics Covered:**
   - Generating Functions
   - Basic Group Theory
   - Asymptotics
-  - Motivation for various fields of Combinatorics
-- **Notes:** [TBU]
+  - A brief motivation for Algebraic and Probabilistic Combinatorics
 - **Date:** 28th November, 2024
 - **References:** 
   - _Visual Group Theory_ -- Nathan Carter
   - _Abstract Algebra_ -- Dummit and Foote
   - [_Generating Functionology_](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf) -- Herbert S. Wilf
-- **Other:** [TBU]
+
+**Day 2: An insight into Geometric and Topological Combinatorics**
+
+This was the second session of the Enumerative Combinatorics UDGRP. We used the time to introduce some areas in geometric and topological combinatorics, and also provide a brief introduction to additive combinatorics. For further reading, look into the books in the reference.
+
+- **Scribbles:** Available [here](/pdfs/ECUD2.pdf)
+- **Topics Covered:**
+  - Proof of Cauchy-Davenport Theorem
+  - Basic Idea of Planarity
+  - Introduction to Polytopes
+  - Introduction to Hyperplane Arrangements
+- **Date:** 1st December, 2024
+- **References:** 
+  - [_The Cauchy Davenport Theorem_](https://sites.math.rutgers.edu/~sk1233/courses/additive-F16/lec1.pdf)
+  - [_Lecture Notes in Hyperplane Arrangements_](https://static.ias.edu/pcmi/2004/program/Stanleynotes.pdf)
+  - _Lectures in Polytopes_ -- Gunter M. Ziegler
