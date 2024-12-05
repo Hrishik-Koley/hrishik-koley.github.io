@@ -59,9 +59,10 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
 
 - **Presentation:** _Asymmetric Colouring_ -- Daibik Barik
 - **Notes of Presentation:** [TBU]
+- **Scribbles:** Available [here](/pdfs/ECUD3.pdf)
 - **Topics Covered:** 
-  - Some proofs of _Erdos, Ginzburg, Ziv_ theorem
-  - Zero Sum Sets in \\(Z_n \bigoplus Z_n\\)
+  - Chevalley-Warning Theorem
+  - Proof of _Erdos, Ginzburg, Ziv_ Theorem using counting argument
 - **Date:** 5th December, 2024
 - **References:** 
   - [_Zero Sum Sets of Prescribed Size_](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
