@@ -55,9 +55,9 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
   - [_Lecture Notes in Hyperplane Arrangements_](https://static.ias.edu/pcmi/2004/program/Stanleynotes.pdf)
   - _Lectures in Polytopes_ -- Gunter M. Ziegler
 
-**Day 3: Asymmetric Colouring and Zero-Sum sets in \\(Z_n \bigoplus Z_n\\)**
+**Day 3: Asymmetric Colouring and the EGZ Theorem**
 
-- **Presentation:** _Asymmetric Colouring_ -- Daibik Barik
+- **Presentation:** _Asymmetric Colouring_ -- _Daibik Barik_
 - **Notes of Presentation:** [TBU]
 - **Scribbles:** Available [here](/pdfs/ECUD3.pdf)
 - **Topics Covered:** 
@@ -66,3 +66,9 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
 - **Date:** 5th December, 2024
 - **References:** 
   - [_Zero Sum Sets of Prescribed Size_](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
+
+**Day 4: Planarity and Kuratowski's Theorem**
+
+- **Presentation:** _Kuratowski's Theorem_ --  _Aayusman Mallick_ & _Arkaprovo Das_
+- **Notes of Presentation:** [TBU]
+- **Date:** 8th December, 2024
