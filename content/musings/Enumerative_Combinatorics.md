@@ -25,7 +25,7 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 - **Enumerative Combinatorics Vol. 1 & 2** -- **Richard P. Stanley**
 - **A Course in Combinatorics** -- **J.H. van Lint & R.M. Wilson**
 
-## The Plan
+## Overview
 
 **Day 1: Brief introduction to Group Theory and Generating Functions**
 
@@ -94,3 +94,13 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
 - **Presentation:** _Counting Probabilities_ -- _Subhojit Maji_
 - **Notes of Presentation:** Available [here](/pdfs/ECUDP5.pdf)
 - **Date:** 22nd December, 2024
+
+**Day 8: Guest Session on some ideas in Topological Combinatorics**
+
+- **Guest Speaker:** _Anasmit Pal_
+- **Session Highlights:** 
+  - Sperner's Lemma
+  - Brouwer's Fixed Point Theorem
+  - Fair Division Problem
+- **Session Notes:** Available [here](/pdfs/ECUDGL.pdf)
+- **Date:** 29th December, 2024
