@@ -25,9 +25,16 @@ hidelanguage = true
 
 ## PROJECTS
 
+- **Random Lozenge Tilings**
+  - _Advisor:_ Prof. Nishant Chandgotia
+  - _Timeline:_ January, 2025 -- Present
+  - _References:_
+    - _[Probability: Theory and Examples](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)_ -- _Rick Durrett_
+    - _[Lectures on Random Lozenge Tilings](https://www.stat.berkeley.edu/~vadicgor/Random_tilings.pdf)_ -- _Vadim Gorin_
+
 - **Zero-Sum Theory**
   - _Advisor:_ Prof. Eshita Mazumdar
-  - _Timeline:_ December, 2024 -- Present
+  - _Timeline:_ November, 2024 -- January, 2025
   - _References:_ 
     - [Zero-sum sets of prescribed size](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
@@ -42,7 +49,7 @@ hidelanguage = true
 - **Algebraic Combinatorics and Tilings**
   As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings. Later, I also studied about fault-free tilings.
   - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ May, 2024 -- October, 2024
+  - _Timeline:_ May, 2024 -- November, 2024
   - _References:_ 
     - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
     - _Handbook of Enumerative Combinatorics_
