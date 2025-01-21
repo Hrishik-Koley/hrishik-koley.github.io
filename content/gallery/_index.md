@@ -10,5 +10,4 @@ hidelanguage = true
 
 Under Construction...
 
-<!-- ![The Gang @ ISI, Bangalore](/gallery/Gang@ISI/image3.jpg)
-**The Gang @ ISI, Bangalore** -->
+![The Gang @ ISI, Bangalore](/gallery/Gang@ISI/image3.jpg)
