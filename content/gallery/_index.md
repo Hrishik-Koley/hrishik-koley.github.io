@@ -10,5 +10,5 @@ hidelanguage = true
 
 **Chapter ISIBC**
 
-![The Gang @ ISI, Bangalore](/gallery/Gang@ISI/image1.jpg)
-![Us in Style](/gallery/Gang@ISI/image2.jpg)
+![The Gang @ ISI, Bangalore](/images/image1.jpg)
+![Us in Style](/images/image2.jpg)
