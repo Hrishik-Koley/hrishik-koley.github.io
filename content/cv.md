@@ -23,6 +23,11 @@ hidelanguage = true
   - Passed ICSE in 2020
   - Attended from 2009-2020
 
+## RESEARCH
+
+- **The Median of Sierpinski Triangle Graphs**
+  - _Preprint:_ Available [here](https://arxiv.org/abs/2408.12783)
+
 ## PROJECTS
 
 - **Random Lozenge Tilings**
@@ -40,7 +45,7 @@ hidelanguage = true
 
 - **Integer Partitions and Symmetric Functions**
   - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ September, 2024 -- Present
+  - _Timeline:_ September, 2024 -- November, 2024
   - _Referenecs:_ 
     - _Enumerative Combinatorics Vol. II_ -- _Richard P. Stanley_
     - _The Symmetric Group_ -- _Bruce E. Sagan_
@@ -49,7 +54,7 @@ hidelanguage = true
 - **Algebraic Combinatorics and Tilings**
   As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings. Later, I also studied about fault-free tilings.
   - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ May, 2024 -- November, 2024
+  - _Timeline:_ May, 2024 -- Present
   - _References:_ 
     - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
     - _Handbook of Enumerative Combinatorics_

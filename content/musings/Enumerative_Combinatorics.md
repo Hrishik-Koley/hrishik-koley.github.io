@@ -1,6 +1,6 @@
 +++
-title = "Enumerative Combinatorics UDGRP"
-description = "This is a compilation of the notes and resources for the UDGRP on Enumerative Combinatorics"
+title = "An Overview of Combinatorics UDGRP"
+description = "This is a compilation of the notes and resources for the UDGRP titled An Overview of Combinatorics"
 type = ["blogs","blog"]
 date = "2024-11-19"
 [ author ]
@@ -24,6 +24,12 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 - **Bijective Combinatorics** -- **Nicholas Loehr**
 - **Enumerative Combinatorics Vol. 1 & 2** -- **Richard P. Stanley**
 - **A Course in Combinatorics** -- **J.H. van Lint & R.M. Wilson**
+
+## Other Resource
+
+Some notes were compiled by me and my senior, Bikram Halder, on Graph Theory in the Winter of 2023. Though it is not very complete it can be used by the reader to get a basic familiarity with the definitions and ideas.
+
+- _Graph Theory Notes:_ Available [here](https://hrishik-koley.github.io/graph_theory_notes/)
 
 ## Overview
 
