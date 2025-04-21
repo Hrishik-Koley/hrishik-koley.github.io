@@ -1,5 +1,5 @@
 +++
-title = "An Overview of Combinatorics UDGRP"
+title = "A Walk through Combinatorics UDGRP"
 description = "This is a compilation of the notes and resources for the UDGRP titled An Overview of Combinatorics"
 type = ["blogs","blog"]
 date = "2024-11-19"
