@@ -1,6 +1,6 @@
 +++
-title = "A Walk through Combinatorics UDGRP"
-description = "This is a compilation of the notes and resources for the UDGRP titled An Overview of Combinatorics"
+title = "UDGRP @ Math Club, ISIB"
+description = "This is a compilation of the notes and resources for some of the UDGRPs that I conducted at Math Club, ISIB"
 type = ["blogs","blog"]
 date = "2024-11-19"
 [ author ]
@@ -8,6 +8,8 @@ date = "2024-11-19"
 +++
 
 {{< katex >}}
+
+# A Walk through Combinatorics
 
 ## Acknowledgements
 
@@ -110,3 +112,5 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
   - Fair Division Problem
 - **Session Notes:** Available [here](/pdfs/ECUDGL.pdf)
 - **Date:** 29th December, 2024
+
+# Representation Theory and Symmetric Functions
