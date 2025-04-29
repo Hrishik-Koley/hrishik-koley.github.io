@@ -9,17 +9,17 @@ date = "2024-11-19"
 
 {{< katex >}}
 
-# A Walk through Combinatorics
+## A Walk through Combinatorics
 
-## Acknowledgements
+### Acknowledgements
 
 I would like to thank each and everyone who attended the UDGRP and gave presentations. A shoutout to Arkapriyo Hore, for helping me out whenever needed, and also, Anasmit Pal for helping me out at times, when things were beyond the scope of my knowledge.
 
-## Abstract
+### Abstract
 
 Combinatorics is a branch of mathematics focused on the study of discrete objects and their arrangements. It deals with counting, enumerating, and analyzing configurations of objects that can be distinct or identical, finite or infinite, and arranged in various ways. Over the years as this field of mathematics has matured it has become exceedingly harder to provide purely combinatorial arguments for the questions that continue to arise. Thus, there has been a need to introduce the interplay of combinatorics with various methods ranging from algebraic to analytic to probabilistic. In this UDGRP, we will mainly be focusing on the algebraic and geometric methods, and at times, may call upon some probabilistic methods, if necessary.
 
-## Main References
+### Main References
 
 - **Handbook of Enumerative Combinatorics**
 - **A Course in Enumeration** -- **Martin Aigner**
@@ -27,13 +27,13 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 - **Enumerative Combinatorics Vol. 1 & 2** -- **Richard P. Stanley**
 - **A Course in Combinatorics** -- **J.H. van Lint & R.M. Wilson**
 
-## Other Resource
+### Other Resources
 
 Some notes were compiled by me and my senior, Bikram Halder, on Graph Theory in the Winter of 2023. Though it is not very complete it can be used by the reader to get a basic familiarity with the definitions and ideas.
 
 - _Graph Theory Notes:_ Available [here](https://hrishik-koley.github.io/graph_theory_notes/)
 
-## Overview
+### Overview
 
 **Day 1: Brief introduction to Group Theory and Generating Functions**
 
@@ -113,4 +113,4 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
 - **Session Notes:** Available [here](/pdfs/ECUDGL.pdf)
 - **Date:** 29th December, 2024
 
-# Representation Theory and Symmetric Functions
+## Representation Theory and Symmetric Functions
