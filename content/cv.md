@@ -30,6 +30,14 @@ hidelanguage = true
 
 ## PROJECTS
 
+- **Localization in Theorems in Extremal Graph Theory**
+  - _Advisor:_ Prof. Mathew C. Francis
+  - _Timeline:_ May, 2025 -- Present
+
+- **Fault-Free Tilings**
+  - _Advisor:_ Prof. Samrith Ram
+  - _Timeline:_ March, 2025 -- Present
+
 - **Random Lozenge Tilings**
   - _Advisor:_ Prof. Nishant Chandgotia
   - _Timeline:_ January, 2025 -- Present
@@ -43,18 +51,10 @@ hidelanguage = true
   - _References:_ 
     - [Zero-sum sets of prescribed size](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
-- **Integer Partitions and Symmetric Functions**
-  - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ September, 2024 -- November, 2024
-  - _Referenecs:_ 
-    - _Enumerative Combinatorics Vol. II_ -- _Richard P. Stanley_
-    - _The Symmetric Group_ -- _Bruce E. Sagan_
-    - _Integer Partitions_ -- _George E. Andrews_ & _Kimmo Eriksson_
-
 - **Algebraic Combinatorics and Tilings**
-  As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings. Later, I also studied about fault-free tilings.
+  As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings.
   - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ May, 2024 -- Present
+  - _Timeline:_ May, 2024 -- February, 2025
   - _References:_ 
     - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
     - _Handbook of Enumerative Combinatorics_
