@@ -30,7 +30,7 @@ hidelanguage = true
 
 ## PROJECTS
 
-- **Localization in Theorems in Extremal Graph Theory**
+- **Extremal Graph Theory**
   - _Advisor:_ Prof. Mathew C. Francis
   - _Timeline:_ May, 2025 -- Present
 
@@ -40,7 +40,7 @@ hidelanguage = true
 
 - **Random Lozenge Tilings**
   - _Advisor:_ Prof. Nishant Chandgotia
-  - _Timeline:_ January, 2025 -- Present
+  - _Timeline:_ January, 2025 -- Present (On Halt)
   - _References:_
     - _[Probability: Theory and Examples](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)_ -- _Rick Durrett_
     - _[Lectures on Random Lozenge Tilings](https://www.stat.berkeley.edu/~vadicgor/Random_tilings.pdf)_ -- _Vadim Gorin_
@@ -88,7 +88,11 @@ hidelanguage = true
 
 ## CONFERENCES ATTENDED
 
-**AlCoVE: an Algebraic Combinatorics Virtual Expedition**
+**AlCoVE 2025: an Algebraic Combinatorics Virtual Expedition**
+- _Timeline:_ 29-30 May, 2025
+- _Organizers:_ Laura Colmenarejo, Maria Gillespie, Oliver Pechenik, and Liam Solus
+
+**AlCoVE 2024: an Algebraic Combinatorics Virtual Expedition**
 - _Timeline:_ 17-18 June, 2024
 - _Organizers:_ Laura Colmenarejo, Maria Gillespie, Oliver Pechenik, and Liam Solus
 
