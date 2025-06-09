@@ -8,7 +8,4 @@ hidelanguage = true
   name = "Hrishik"
 +++
 
-**Chapter ISIBC**
-
-![The Gang @ ISI, Bangalore](/images/image1.JPG)
-![Us in Style](/images/image2.jpg)
+Coming Soon...

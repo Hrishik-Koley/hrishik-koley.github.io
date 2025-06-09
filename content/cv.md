@@ -13,7 +13,8 @@ hidelanguage = true
 ## EDUCATION
 
 - **INDIAN STATISTICAL INSTITUTE, BANGALORE CENTRE**
-  - Currently pursuing B.Math(Hons.) since 2022
+  - Completed B.Math in 2025
+  - Attended from 2022-2025
 
 - **BURDWAN MUNICIPAL BOYS HIGH SCHOOL**
   - Passed WBCHSE in 2022
