@@ -46,7 +46,7 @@ This was the very first session of the Enumerative Combinatorics UDGRP. We used 
   - Asymptotics
   - A brief motivation for Algebraic and Probabilistic Combinatorics
 - **Date:** 28th November, 2024
-- **References:** 
+- **References:**
   - _Visual Group Theory_ -- Nathan Carter
   - _Abstract Algebra_ -- Dummit and Foote
   - [_Generating Functionology_](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf) -- Herbert S. Wilf
@@ -62,7 +62,7 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
   - Introduction to Polytopes
   - Introduction to Hyperplane Arrangements
 - **Date:** 1st December, 2024
-- **References:** 
+- **References:**
   - [_The Cauchy Davenport Theorem_](https://sites.math.rutgers.edu/~sk1233/courses/additive-F16/lec1.pdf)
   - [_Lecture Notes in Hyperplane Arrangements_](https://static.ias.edu/pcmi/2004/program/Stanleynotes.pdf)
   - _Lectures in Polytopes_ -- Gunter M. Ziegler
@@ -72,16 +72,16 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
 - **Presentation:** _Asymmetric Colouring_ -- _Daibik Barik_
 - **Notes of Presentation:** Available [here](/pdfs/ECUDP1.pdf)
 - **Scribbles:** Available [here](/pdfs/ECUD3.pdf)
-- **Topics Covered:** 
+- **Topics Covered:**
   - Chevalley-Warning Theorem
   - Proof of _Erdos, Ginzburg, Ziv_ Theorem using counting argument
 - **Date:** 5th December, 2024
-- **References:** 
+- **References:**
   - [_Zero Sum Sets of Prescribed Size_](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
 **Day 4: Planarity and Kuratowski's Theorem**
 
-- **Presentation:** _Kuratowski's Theorem_ --  _Aayusman Mallick_ & _Arkaprovo Das_
+- **Presentation:** _Kuratowski's Theorem_ -- _Aayusman Mallick_ & _Arkaprovo Das_
 - **Notes of Presentation:** Available [here](/pdfs/ECUDP2.pdf)
 - **Date:** 8th December, 2024
 
@@ -106,11 +106,9 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
 **Day 8: Guest Session on some ideas in Topological Combinatorics**
 
 - **Guest Speaker:** _Anasmit Pal_
-- **Session Highlights:** 
+- **Session Highlights:**
   - Sperner's Lemma
   - Brouwer's Fixed Point Theorem
   - Fair Division Problem
 - **Session Notes:** Available [here](/pdfs/ECUDGL.pdf)
 - **Date:** 29th December, 2024
-
-## Representation Theory and Symmetric Functions

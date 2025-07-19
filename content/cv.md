@@ -13,10 +13,12 @@ hidelanguage = true
 ## EDUCATION
 
 - **INDIAN STATISTICAL INSTITUTE, BANGALORE CENTRE**
+
   - Completed B.Math in 2025
   - Attended from 2022-2025
 
 - **BURDWAN MUNICIPAL BOYS HIGH SCHOOL**
+
   - Passed WBCHSE in 2022
   - Attended from 2020-2022
 
@@ -31,15 +33,23 @@ hidelanguage = true
 
 ## PROJECTS
 
+- **Geometric Packings**
+
+  - _Advisor:_ Prof. Arindam Khan
+  - _Timeline:_ July, 2025 -- Present
+
 - **Extremal Graph Theory**
+
   - _Advisor:_ Prof. Mathew C. Francis
   - _Timeline:_ May, 2025 -- Present
 
 - **Fault-Free Tilings**
+
   - _Advisor:_ Prof. Samrith Ram
   - _Timeline:_ March, 2025 -- Present
 
 - **Random Lozenge Tilings**
+
   - _Advisor:_ Prof. Nishant Chandgotia
   - _Timeline:_ January, 2025 -- Present (On Halt)
   - _References:_
@@ -47,29 +57,33 @@ hidelanguage = true
     - _[Lectures on Random Lozenge Tilings](https://www.stat.berkeley.edu/~vadicgor/Random_tilings.pdf)_ -- _Vadim Gorin_
 
 - **Zero-Sum Theory**
+
   - _Advisor:_ Prof. Eshita Mazumdar
   - _Timeline:_ November, 2024 -- January, 2025
-  - _References:_ 
+  - _References:_
     - [Zero-sum sets of prescribed size](https://www.cs.tau.ac.il/~nogaa/PDFS/egz1.pdf)
 
 - **Algebraic Combinatorics and Tilings**
   As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings.
+
   - _Advisor:_ Prof. Samrith Ram
   - _Timeline:_ May, 2024 -- February, 2025
-  - _References:_ 
+  - _References:_
     - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
     - _Handbook of Enumerative Combinatorics_
-    - _Enumerative Combinatorics Volume 1_ -- _Richard P. Stanley_ 
+    - _Enumerative Combinatorics Volume 1_ -- _Richard P. Stanley_
     - _A Course in Enumeration_ -- _Martin Aigner_
     - _Bijective Combinatorics_ -- _Nicholas Loehr_
 
 - **Structural Graph Theory**
+
   - _Advisor:_ Prof. Nishad Kothari
   - _Timeline:_ May, 2024 -- July, 2024
   - _Referenecs:_
     - _Graph Theory_ -- _J.A. Bondy_ & _U.S.R. Murty_
 
 - **Hanoi Graphs, Sierpinski Graphs, and Sierpinski Triangle Graphs**
+
   - _Advisor:_ Dr. Divya Sindhu Lekha
   - _Timeline:_ June, 2023 -- August, 2023
   - _Referenecs:_
@@ -90,13 +104,16 @@ hidelanguage = true
 ## CONFERENCES ATTENDED
 
 **AlCoVE 2025: an Algebraic Combinatorics Virtual Expedition**
+
 - _Timeline:_ 29-30 May, 2025
 - _Organizers:_ Laura Colmenarejo, Maria Gillespie, Oliver Pechenik, and Liam Solus
 
 **AlCoVE 2024: an Algebraic Combinatorics Virtual Expedition**
+
 - _Timeline:_ 17-18 June, 2024
 - _Organizers:_ Laura Colmenarejo, Maria Gillespie, Oliver Pechenik, and Liam Solus
 
 **Workshop III: Statistical Mechanics Beyond 2D**
+
 - _Timeline:_ 6-10 May, 2024
 - _Organizers:_ IPAM, UCLA
