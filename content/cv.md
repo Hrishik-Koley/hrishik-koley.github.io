@@ -103,6 +103,11 @@ hidelanguage = true
 
 ## CONFERENCES ATTENDED
 
+**ICECA 2025: International Conference on Enumerative Combinatorics and Applications**
+
+- _Timeline:_ 25-27 August, 2025
+- _Organizers:_ Toufik Mansour, Ron Adin, and others
+
 **AlCoVE 2025: an Algebraic Combinatorics Virtual Expedition**
 
 - _Timeline:_ 29-30 May, 2025
