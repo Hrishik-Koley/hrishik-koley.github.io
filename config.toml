@@ -6,7 +6,8 @@ theme = "hello-4s3ti"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+[pagination]
+pagerSize = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -32,12 +33,44 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-IsMultiLingual = false
-defaultContentLanguage = "en"
-
-
-[permalinks]
-  blogs = "/blogs/:year/:month/:title/"
+[languages]
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+   
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+    weight     = 10
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv/"
+    weight     = 20  
+  [[menu.main]]
+    identifier = "musings"
+    name       = "Musings"
+    url        = "musings/"
+    weight     = 30
+  [[menu.main]]
+    identifier = "activities"
+    name       = "Activities"
+    url        = "activities/"
+    weight     = 40
+  [[menu.main]]
+    identifier = "gallery"
+    name       = "Gallery"
+    url        = "gallery/"
+    weight     = 60
+  [[menu.main]]
+    identifier = "resources"
+    name       = "Resources"
+    url        = "resources/"
+    weight     = 50
 
 [author]
   name = "Hrishik Koley"
@@ -126,7 +159,7 @@ defaultContentLanguage = "en"
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   #
   customCSS = []
-  customJS  = []
+  customJS  = ["js/typewriter.js"]
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
@@ -156,7 +189,7 @@ defaultContentLanguage = "en"
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "Hrishik Koley"
+    logoText     = "Hrishik"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -205,40 +238,3 @@ defaultContentLanguage = "en"
     name = "Terminal CV"
     url  = ""
     icon = "fa-solid fa-terminal"
-
-[languages]
-  [languages.en]
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-   
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-    weight     = 10
-  [[menu.main]]
-    identifier = "cv"
-    name       = "CV"
-    url        = "cv/"
-    weight     = 20  
-  [[menu.main]]
-    identifier = "musings"
-    name       = "Musings"
-    url        = "musings/"
-    weight     = 30
-  [[menu.main]]
-    identifier = "activities"
-    name       = "Activities"
-    url        = "activities/"
-    weight     = 40
-  [[menu.main]]
-    identifier = "gallery"
-    name       = "Gallery"
-    url        = "gallery/"
-    weight     = 60
-  [[menu.main]]
-    identifier = "resources"
-    name       = "Resources"
-    url        = "resources/"
-    weight     = 50

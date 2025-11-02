@@ -41,7 +41,7 @@ hidelanguage = true
 - **Extremal Graph Theory**
 
   - _Advisor:_ Prof. Mathew C. Francis
-  - _Timeline:_ May, 2025 -- Present
+  - _Timeline:_ May, 2025 -- August, 2025
 
 - **Fault-Free Tilings**
 

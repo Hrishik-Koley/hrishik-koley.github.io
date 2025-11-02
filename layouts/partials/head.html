@@ -24,7 +24,7 @@
     type="text/css">
 
 {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
+{{ $style := resources.Get "scss/main.scss" | css.Sass $options | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 {{ range $val := $.Site.Params.customCSS }}
@@ -84,8 +84,7 @@
 
 <!-- JSON Feed -->
 {{ if .OutputFormats.Get "json" }}
-<link href="{{ if .OutputFormats.Get "json" }}{{ .Site.BaseURL }}feed.json{{ end }}" rel="alternate"
-    type="application/json" title="{{ .Site.Title }}" />
+<link href="{{ .Site.BaseURL }}feed.json" rel="alternate" type="application/json" title="{{ .Site.Title }}" />
 {{ end }}
 
 <!-- Custom head tags -->
