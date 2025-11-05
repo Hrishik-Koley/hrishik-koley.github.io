@@ -236,5 +236,5 @@ disableHugoGeneratorInject = false
 
   [[params.social]] 
     name = "Terminal CV"
-    url  = ""
+    url  = "/terminal-cv/"
     icon = "fa-solid fa-terminal"

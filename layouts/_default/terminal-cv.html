@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/terminal-cv.css">
+</head>
+<body>
+    <div id="terminal">
+        <pre id="output"></pre>
+        <div id="input-line">
+            <span class="prompt">></span>
+            <input type="text" id="input" autofocus>
+        </div>
+    </div>
+
+    <script>
+        const cvData = `{{ .Site.GetPage "cv.md" | .RawContent }}`;
+        const activitiesData = `{{ .Site.GetPage "activities.md" | .RawContent }}`;
+    </script>
+    <script src="/js/terminal-cv.js"></script>
+</body>
+</html>
