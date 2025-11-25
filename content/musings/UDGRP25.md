@@ -1,5 +1,3 @@
-## Tilings: Algebraic & Probabilistic Expedition
-
 +++
 title = "UDGRP Winter 2025 @ Math Club, ISIB"
 description = "This is a compilation of the notes and resources for some of the UDGRP that I conducted at Math Club, ISIB"
@@ -8,6 +6,8 @@ date = "2025-11-25"
 [ author ]
 name = "Hrishik Koley"
 +++
+
+## Tilings: Algebraic & Probabilistic Expedition
 
 ### Abstract
 
