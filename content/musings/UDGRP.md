@@ -37,7 +37,7 @@ Some notes were compiled by me and my senior, Bikram Halder, on Graph Theory in 
 
 **Day 1: Brief introduction to Group Theory and Generating Functions**
 
-This was the very first session of the Enumerative Combinatorics UDGRP. We used the time to get introduced to each other as well as everyone's motivation.
+This was the very first session of the Combinatorics UDGRP. We used the time to get introduced to each other as well as everyone's motivation.
 
 - **Scribbles:** Available [here](/pdfs/ECUD1.pdf)
 - **Topics Covered:**
@@ -53,7 +53,7 @@ This was the very first session of the Enumerative Combinatorics UDGRP. We used 
 
 **Day 2: An insight into Geometric and Topological Combinatorics**
 
-This was the second session of the Enumerative Combinatorics UDGRP. We used the time to introduce some areas in geometric and topological combinatorics, and also provide a brief introduction to additive combinatorics. For further reading, look into the books in the reference.
+This was the second session of the Combinatorics UDGRP. We used the time to introduce some areas in geometric and topological combinatorics, and also provide a brief introduction to additive combinatorics. For further reading, look into the books in the reference.
 
 - **Scribbles:** Available [here](/pdfs/ECUD2.pdf)
 - **Topics Covered:**
@@ -112,3 +112,23 @@ This was the second session of the Enumerative Combinatorics UDGRP. We used the 
   - Fair Division Problem
 - **Session Notes:** Available [here](/pdfs/ECUDGL.pdf)
 - **Date:** 29th December, 2024
+
+## Tilings: Algebraic & Probabilistic Expedition
+
+### Abstract
+
+We will introduce the mathematics of tilings of the plane and higher dimensional shapes from both an algebraic and a probabilistic perspective. Tilings takes an interesting question that serves as a perfect meeting ground for geometry, group theory, combinatorics, representation theory, and probability. On the algebraic side, we study how symmetric groups classify periodic tilings and explore substitution tilings such as the Penrose tiling. On the probabilistic side, we investigate random tilings, domino models, and the striking emergence of global order from local randomness, such as the arctic circle phenomenon. Expect to start off by seeing a lot of beautiful structures, and slowly delve into it's connections to algebra, probability, and, if time permits, topology.
+
+### Main References
+
+- **Tilings and Patterns** -- **Branko Grünbaum, G. C. Shephard**
+- **Lectures on Random Lozenge Tilings** -- **Vadim Gorin**
+- **The Tiling Book** -- **Colin Adams**
+
+### Overview
+
+**Day 1: Basic Introduction to Tilings, Related and Ad-Hoc Ideas**
+
+This was the very first session of the Tilings UDGRP. We used the time to get introduced to each other, everyone's motivation, as well as give a brief introduction to the topic at hand to decide what path we will follow.
+
+- **Date:** 25th November, 2025
