@@ -25,4 +25,10 @@ We will introduce the mathematics of tilings of the plane and higher dimensional
 
 This was the very first session of the Tilings UDGRP. We used the time to get introduced to each other, everyone's motivation, as well as give a brief introduction to the topic at hand to decide what path we will follow.
 
+- **Slides:** Available [here](/pdfs/TUD1.pdf)
+- **Topics Covered:**
+  - Basic Definitions
+  - Generating Functions
+  - Basic Graph Theoretic Definitions
+  - Transfer Matrix and Transfer Graph
 - **Date:** 25th November, 2025
