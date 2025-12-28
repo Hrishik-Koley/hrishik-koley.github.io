@@ -33,7 +33,7 @@ hidelanguage = true
 
 ## PROJECTS
 
-- **Geometric Packings**
+- **Approximation Algorithms in Geometric Packings**
 
   - _Advisor:_ Prof. Arindam Khan
   - _Timeline:_ July, 2025 -- Present
@@ -67,7 +67,7 @@ hidelanguage = true
   As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings.
 
   - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ May, 2024 -- February, 2025
+  - _Timeline:_ May, 2024 -- May, 2025
   - _References:_
     - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
     - _Handbook of Enumerative Combinatorics_
@@ -103,10 +103,20 @@ hidelanguage = true
 
 ## CONFERENCES ATTENDED
 
+**Frontiers of Graph Algorithms**
+
+- _Timeline:_ 8-12 December, 2025
+- _Organizers:_ Siddharth Barman, Arindam Khan, Anand Louis, Sagnik Mukhopadhyay, Thatchaphol Saranurak
+
 **ICECA 2025: International Conference on Enumerative Combinatorics and Applications**
 
 - _Timeline:_ 25-27 August, 2025
 - _Organizers:_ Toufik Mansour, Ron Adin, and others
+
+**The Singapore-Bangalore "What is ...?" Workshop on Mathematics**
+
+- _Timeline:_ 23-24 August, 2025
+- _Organizers:_ Department of Mathematics, National University of Singapore
 
 **AlCoVE 2025: an Algebraic Combinatorics Virtual Expedition**
 
