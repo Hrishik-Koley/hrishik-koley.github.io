@@ -25,6 +25,11 @@ date = "2024-08-24"
 
 I have included the slides of various talks given by me at various places. The dates of the talks as well as links to the slides and websites of the organizations that hosted the talks are present here.
 
+**Graph Sparsifiers**
+- **Slides:** [TBU]
+- **Hosted by:** LIMIT, ISI Bangalore
+- **Date:** 9th May, 2026
+
 **A Tale of Two Cities: With Coins and Tiles**
 - **Slides:** [TBU]
 - **Hosted by:** LIMIT, ISI Bangalore
