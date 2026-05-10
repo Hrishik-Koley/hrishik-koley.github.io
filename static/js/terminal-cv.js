@@ -35,37 +35,16 @@ let commandData = {
         description: "Research Work",
         items: [
           {
+            title:
+              "Straight Polyomino Tilings of Rectangles and Special Rim-Hook Tableaux",
+            link: "https://arxiv.org/abs/2604.21852",
+            status: "Submitted to Combinatorial Theory",
+          },
+          {
             title: "The Median of Sierpinski Triangle Graphs",
             link: "https://arxiv.org/abs/2408.12783",
-            status: "Submitted to Discrete Applied Mathematics",
-          },
-        ],
-      },
-      conferences: {
-        description: "Conferences Attended",
-        items: [
-          {
-            title:
-              "ICECA 2025: International Conference on Enumerative Combinatorics and Applications",
-            timeline: "25-27 August, 2025",
-            organizers: "Toufik Mansour, Ron Adin, and others",
-          },
-          {
-            title: "AlCoVE 2025: an Algebraic Combinatorics Virtual Expedition",
-            timeline: "29-30 May, 2025",
-            organizers:
-              "Laura Colmenarejo, Maria Gillespie, Oliver Pechenik, and Liam Solus",
-          },
-          {
-            title: "AlCoVE 2024: an Algebraic Combinatorics Virtual Expedition",
-            timeline: "17-18 June, 2024",
-            organizers:
-              "Laura Colmenarejo, Maria Gillespie, Oliver Pechenik, and Liam Solus",
-          },
-          {
-            title: "Workshop III: Statistical Mechanics Beyond 2D",
-            timeline: "6-10 May, 2024",
-            organizers: "IPAM, UCLA",
+            status:
+              "Accepted to Discrete Applied Mathematics Special Edition (LAGOS)",
           },
         ],
       },
@@ -73,7 +52,7 @@ let commandData = {
         description: "All Projects",
         items: [
           {
-            title: "Geometric Packings",
+            title: "Approximation Algorithms for Geometric Packings",
             advisor: "Prof. Arindam Khan",
             timeline: "July, 2025 -- Present",
           },
@@ -90,7 +69,7 @@ let commandData = {
           {
             title: "Random Lozenge Tilings",
             advisor: "Prof. Nishant Chandgotia",
-            timeline: "January, 2025 -- Present (On Halt)",
+            timeline: "January, 2025 -- April, 2025",
           },
           {
             title: "Zero-Sum Theory",
@@ -169,13 +148,14 @@ logo.className = "minecraft-logo"
 logo.textContent = "TERMINAL CV"
 output.appendChild(logo)
 output.appendChild(
-  document.createTextNode("\nType 'help' to see available commands.\n")
+  document.createTextNode("\nType 'help' to see available commands.\n"),
 )
 
 function formatResearch(data) {
   return data.item
     .map(
-      item => `Title: ${item.title}\nLink: ${item.Link}\nStatus: ${item.Status}`
+      item =>
+        `Title: ${item.title}\nLink: ${item.Link}\nStatus: ${item.Status}`,
     )
     .join("\n\n")
 }
@@ -184,7 +164,7 @@ function handleSection(type, section) {
   const data = commandData[type]?.sections[section]
   if (!data)
     return `Section '${section}' not found. Available sections: ${Object.keys(
-      commandData[type].sections
+      commandData[type].sections,
     ).join(", ")}`
   if (section === "education")
     return "Type 'education' to view education details"
