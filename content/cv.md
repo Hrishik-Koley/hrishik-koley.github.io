@@ -13,12 +13,14 @@ hidelanguage = true
 ## EDUCATION
 
 - **INDIAN STATISTICAL INSTITUTE, BANGALORE CENTRE**
+  - Started M.Math in 2025
+  - Attending from 2025-2027
 
+- **INDIAN STATISTICAL INSTITUTE, BANGALORE CENTRE**
   - Completed B.Math in 2025
   - Attended from 2022-2025
 
 - **BURDWAN MUNICIPAL BOYS HIGH SCHOOL**
-
   - Passed WBCHSE in 2022
   - Attended from 2020-2022
 
@@ -28,28 +30,27 @@ hidelanguage = true
 
 ## RESEARCH
 
+- **Straight Polyomino Tilings of Rectangles and Special Rim-Hook Tableaux**
+  - _Preprint:_ Available [here](https://arxiv.org/abs/2604.21852)
+
 - **The Median of Sierpinski Triangle Graphs**
   - _Preprint:_ Available [here](https://arxiv.org/abs/2408.12783)
 
 ## PROJECTS
 
 - **Approximation Algorithms in Geometric Packings**
-
   - _Advisor:_ Prof. Arindam Khan
   - _Timeline:_ July, 2025 -- Present
 
 - **Extremal Graph Theory**
-
   - _Advisor:_ Prof. Mathew C. Francis
   - _Timeline:_ May, 2025 -- August, 2025
 
 - **Fault-Free Tilings**
-
   - _Advisor:_ Prof. Samrith Ram
   - _Timeline:_ March, 2025 -- Present
 
 - **Random Lozenge Tilings**
-
   - _Advisor:_ Prof. Nishant Chandgotia
   - _Timeline:_ January, 2025 -- Present (On Halt)
   - _References:_
@@ -57,7 +58,6 @@ hidelanguage = true
     - _[Lectures on Random Lozenge Tilings](https://www.stat.berkeley.edu/~vadicgor/Random_tilings.pdf)_ -- _Vadim Gorin_
 
 - **Zero-Sum Theory**
-
   - _Advisor:_ Prof. Eshita Mazumdar
   - _Timeline:_ November, 2024 -- January, 2025
   - _References:_
@@ -65,7 +65,6 @@ hidelanguage = true
 
 - **Algebraic Combinatorics and Tilings**
   As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings.
-
   - _Advisor:_ Prof. Samrith Ram
   - _Timeline:_ May, 2024 -- May, 2025
   - _References:_
@@ -76,14 +75,12 @@ hidelanguage = true
     - _Bijective Combinatorics_ -- _Nicholas Loehr_
 
 - **Structural Graph Theory**
-
   - _Advisor:_ Prof. Nishad Kothari
   - _Timeline:_ May, 2024 -- July, 2024
   - _Referenecs:_
     - _Graph Theory_ -- _J.A. Bondy_ & _U.S.R. Murty_
 
 - **Hanoi Graphs, Sierpinski Graphs, and Sierpinski Triangle Graphs**
-
   - _Advisor:_ Dr. Divya Sindhu Lekha
   - _Timeline:_ June, 2023 -- August, 2023
   - _Referenecs:_
