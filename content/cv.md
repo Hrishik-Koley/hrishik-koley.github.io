@@ -31,9 +31,11 @@ hidelanguage = true
 ## RESEARCH
 
 - **Straight Polyomino Tilings of Rectangles and Special Rim-Hook Tableaux**
+  - _Authors:_ Mudit Aggarwal, _Hrishik Koley_, Samrith Ram
   - _Preprint:_ Available [here](https://arxiv.org/abs/2604.21852)
 
 - **The Median of Sierpinski Triangle Graphs**
+  - _Authors:_ Kannan Balakrishnan, Manoj Changat, M V. Dhanyamol, Andreas M. Hinz, _Hrishik Koley_, Divya Sindhu Lekha
   - _Preprint:_ Available [here](https://arxiv.org/abs/2408.12783)
 
 ## PROJECTS
@@ -129,3 +131,7 @@ hidelanguage = true
 
 - _Timeline:_ 6-10 May, 2024
 - _Organizers:_ IPAM, UCLA
+
+## OTHER CONTRIBUTIONS
+
+- These are some OEIS sequences I have contributed to: [A005178](https://oeis.org/A005178), [A236582](https://oeis.org/A236582), [A236577](https://oeis.org/A236577), [A247117](https://oeis.org/A247117), [A250663](https://oeis.org/A250663), [A250664](https://oeis.org/A250664), [A250665](https://oeis.org/A250665), [A250666](https://oeis.org/A250666), [A250667](https://oeis.org/A250667)
