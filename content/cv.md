@@ -12,9 +12,9 @@ hidelanguage = true
 
 ## EDUCATION
 
-- **INDIAN STATISTICAL INSTITUTE, BANGALORE CENTRE**
-  - Started M.Math in 2025
-  - Attending from 2025-2027
+- **CHENNAI MATHEMATICAL INSTITUTE**
+  - Started M.Sc (CS) in 2026
+  - Attending from 2026-2028
 
 - **INDIAN STATISTICAL INSTITUTE, BANGALORE CENTRE**
   - Completed B.Math in 2025
