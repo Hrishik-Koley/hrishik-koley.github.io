@@ -25,6 +25,12 @@ date = "2024-08-24"
 
 I have included the slides of various talks given by me at various places. The dates of the talks as well as links to the slides and websites of the organizations that hosted the talks are present here.
 
+**The Happy Ending Problem**
+
+- **Slides:** Available [here](/pdfs/The_Happy_Ending_Problem.pdf)
+- **Hosted by:** Math Club, ISI Bangalore
+- **Date:** 28th July, 2026
+
 **Matchings and Arborescences**
 
 - **Slides:** Available [here](/pdfs/Matchings_and_Arborescences.pdf)

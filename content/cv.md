@@ -54,7 +54,7 @@ hidelanguage = true
 
 - **Random Lozenge Tilings**
   - _Advisor:_ Prof. Nishant Chandgotia
-  - _Timeline:_ January, 2025 -- Present (On Halt)
+  - _Timeline:_ January, 2025 -- March, 2025
   - _References:_
     - _[Probability: Theory and Examples](https://services.math.duke.edu/%7Ertd/PTE/PTE5_011119.pdf)_ -- _Rick Durrett_
     - _[Lectures on Random Lozenge Tilings](https://www.stat.berkeley.edu/~vadicgor/Random_tilings.pdf)_ -- _Vadim Gorin_
