@@ -48,10 +48,6 @@ hidelanguage = true
   - _Advisor:_ Prof. Mathew C. Francis
   - _Timeline:_ May, 2025 -- August, 2025
 
-- **Fault-Free Tilings**
-  - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ March, 2025 -- Present
-
 - **Random Lozenge Tilings**
   - _Advisor:_ Prof. Nishant Chandgotia
   - _Timeline:_ January, 2025 -- March, 2025
@@ -68,7 +64,7 @@ hidelanguage = true
 - **Algebraic Combinatorics and Tilings**
   As a part of this project I started with exploring various topics in algebraic combinatorics but soon focused my attention on the theory of tilings. I studied extensively about rectangular tilings, honeycomb tilings, and benzel tilings.
   - _Advisor:_ Prof. Samrith Ram
-  - _Timeline:_ May, 2024 -- May, 2025
+  - _Timeline:_ May, 2024 -- Present
   - _References:_
     - _[generatingfunctionology](https://www2.math.upenn.edu/~wilf/gfology2.pdf)_ -- _Herbert S. Wilf_
     - _Handbook of Enumerative Combinatorics_
